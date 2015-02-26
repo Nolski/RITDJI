@@ -2,47 +2,47 @@
 ---
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<title>The Fear Machine</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<script src="js/jquery.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="css/skel.css" />
-			<link rel="stylesheet" href="css/style.css" />
-			<link rel="stylesheet" href="css/style-wide.css" />
-		</noscript>
-	</head>
-	<body>
+    <head>
+        <title>The Fear Machine</title>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <script src="js/jquery.min.js"></script>
+        <script src="js/skel.min.js"></script>
+        <script src="js/init.js"></script>
+        <noscript>
+            <link rel="stylesheet" href="css/skel.css" />
+            <link rel="stylesheet" href="css/style.css" />
+            <link rel="stylesheet" href="css/style-wide.css" />
+        </noscript>
+    </head>
+    <body>
 
-		<!-- Header -->
-			<div id="header">
-				<h1>The Fear Machine</h1>
-				<p>A story about fear or something with a better title than this.</p>
-			</div>
+        <!-- Header -->
+            <div id="header">
+                <h1>The Fear Machine</h1>
+                <p>The Powerful Effect of Legislation and Intimidation on Software Developers</p>
+            </div>
 
-		<!-- Main -->
-			<div id="main">
+        <!-- Main -->
+            <div id="main">
 
-				<header class="major container 75%">
-					<h3>Names and locations may have been changed to ensure to ensure the privacy of those who contributed.</h3>
-				</header>
+                <header class="major container 75%">
+                    <h3>Names and locations may have been changed to ensure to ensure the privacy of those who contributed.</h3>
+                </header>
 
             <div class="box container">
                 {% for page in site.posts%}
                     {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
                     <section id="{{id}}">
-						<header>
+                        <header>
                             <h3>{{ page.title }}</h3>
-						</header>
+                        </header>
                         {{ page.content }}
                     </section>
                     <hr />
                 {% endfor %}
             </div>
 
-	</body>
+    </body>
 </html>
