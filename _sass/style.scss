@@ -127,10 +127,9 @@
 		}
 		
 		&.major {
-			border-bottom-width: 1px;
+			border-width: 1px;
 			border-color: $color-border;
 			border-style: solid;
-			border-top-width: 1px;
 			margin-bottom: 6em;
 			padding: 4em 0;
 			position: relative;
@@ -682,9 +681,11 @@
 		background-repeat:			repeat-x,						repeat,					no-repeat;
 		background-size:			3200px 460px,					auto,					cover;
 		color: $color-accent2-fg;
-		padding: 10em 0 20em 0;
+		padding: 19em 0 20em 0;
 		position: relative;
 		text-align: center;
+        height: 100%;
+        
 
 		&:before,
 		&:after {

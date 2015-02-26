@@ -103,10 +103,9 @@ header {
     text-transform: uppercase;
     letter-spacing: 0.075em; }
   header.major {
-    border-bottom-width: 1px;
+    border-width: 1px;
     border-color: rgba(224, 224, 224, 0.75);
     border-style: solid;
-    border-top-width: 1px;
     margin-bottom: 6em;
     padding: 4em 0;
     position: relative; }
@@ -547,7 +546,8 @@ input[type="button"],
   color: rgba(255, 255, 255, 0.8);
   padding: 10em 0 20em 0;
   position: relative;
-  text-align: center; }
+  text-align: center;
+  height: 100%; }
   #header:before, #header:after {
     background: rgba(224, 224, 224, 0.75);
     content: '';

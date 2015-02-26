@@ -26,3 +26,7 @@ disobedience should be served with 50 years in jail and over a million dollars
 in bail. It’s about how a child’s unmonitored exploration should be met with
 jail time and removing a tool which is so commonly used that many say it should
 be a utility for the rest of his life.
+
+##### The CFAA and Aaron Swartz
+
+<iframe src='http://cdn.knightlab.com/libs/timeline/latest/embed/index.html?source=0AoAHS44Q2yundFFtQlNEVHp1TGpuQmNSUHd5cVNJd0E&font=Bevan-PotanoSans&maptype=toner&lang=en&height=650' width='100%' height='650' frameborder='0'></iframe>
