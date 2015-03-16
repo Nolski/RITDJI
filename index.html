@@ -10,18 +10,18 @@
         <script src="js/jquery.min.js"></script>
         <script src="js/skel.min.js"></script>
         <script src="js/init.js"></script>
-        <noscript>
-            <link rel="stylesheet" href="css/skel.css" />
-            <link rel="stylesheet" href="css/style.css" />
-            <link rel="stylesheet" href="css/style-wide.css" />
-        </noscript>
+        <link rel="stylesheet" href="css/skel.css" />
+        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/style-wide.css" />
     </head>
     <body>
 
         <!-- Header -->
             <div id="header">
-                <h1>The Fear Machine</h1>
-                <p>The Powerful Effect of Legislation and Intimidation on Software Developers</p>
+                <div class="header-text">
+                    <h1>The Fear Machine</h1>
+                    <p>The Powerful Effect of Legislation and Intimidation on Software Developers</p>
+                </div>
             </div>
 
         <!-- Main -->
@@ -30,6 +30,7 @@
                 <header class="major container 75%">
                     <h3>Names and locations may have been changed to ensure the privacy of those who contributed.</h3>
                 </header>
+            </div>
 
             <div class="box container">
                 {% for page in site.posts%}
