@@ -1,14 +1,14 @@
 ##### CFAA
 
-The Computer Fraud and Abuse act was enacted by Congress in 1986 as a method of
-clarifying some additional provisions provided in existing computer [fraud
-law](https://www.law.cornell.edu/uscode/text/18/1030) as well as criminalizing
-several additional computer related attacks.
+The Computer Fraud and Abuse Act (CFAA) was enacted by Congress in 1986 as a
+method of clarifying some additional provisions provided in existing computer
+[fraud law](https://www.law.cornell.edu/uscode/text/18/1030) as well as
+criminalizing several additional computer related attacks.
 
 The act has been amended a number of times including in the USA PATRIOT Act of
 2001, in 2008 by the Identity Theft Enforcement and Restitution Act, and is
 currently undergoing an expansion which was proposed in 2015 by President Barack
-Obama.
+Obama.[citations links]
 
 The CFAA focuses on criminalizing anyone who obtains information from a computer
 which is considered _”protected”_.

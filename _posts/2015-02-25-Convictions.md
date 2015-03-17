@@ -1,12 +1,12 @@
 ###### Aaron Swartz
 
-Aaron Swartz is a fairly significant individual in the computing community.
-Co-founding sites such as [reddit.com](https://reddit.com), and developing the
-RSS 1.0 spec, he has published widely cited papers such as his landmark analysis
-of Wikipedia [_”Who Writes
-Wikipedia”_](http://www.aaronsw.com/weblog/whowriteswikipedia). Most notably he
-founded the organization [Demand Progress](https://demandprogress.org/) which
-spearheaded efforts against SOPA/PIPA.
+Aaron Swartz is a significant individual in the computing community. Co-founding
+sites such as [reddit.com](https://reddit.com), and developing the RSS 1.0 spec,
+he has published widely cited papers such as his landmark analysis of Wikipedia
+[_”Who Writes Wikipedia”_](http://www.aaronsw.com/weblog/whowriteswikipedia).
+Most notably he founded the organization [Demand
+Progress](https://demandprogress.org/) which spearheaded efforts against
+SOPA/PIPA.
 
 Swartz was first noticed by federal law enforcement agencies for downloading and
 releasing about 2.7 million _public_ federal court documents stored in PACER.
@@ -17,13 +17,15 @@ Fortunately the investigation didn’t go anywhere since the documents “leaked
 were in-fact, public.
 
 Still, this ended up putting Swartz on the radar of many powerful and
-influential organizations. Swartz was later caught posting a large number of
+influential organizations. Swartz was later caught downloading a large number of
 academic papers from JSTOR online, obtained from his own account provided to him
-by being a research fellow at Harvard university.
+by being on campus at MIT, even though he was a research fellow at Harvard
+university.
 
 On the night of January 6, 2011, Swartz was arrested near the Harvard campus by
 MIT police and a U.S. Secret Service agent. What followed was a string of court
 cases accusing him of everything from breaking and entering to grand larceny.
+[citation needed, exact accounts]
 
 On September 12, 2012, federal prosecutors filed a superseding indictment adding
 nine more felony counts, which increased Swartz's maximum criminal exposure to

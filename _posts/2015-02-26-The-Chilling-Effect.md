@@ -11,6 +11,8 @@ create works of art, brings scientists of different fields together to conduct
 research and maintain intelligent discussions on a scale which hasn’t been seen
 before.
 
-Tools like the computer and the internet live as a symbol of equality. The
-ignorant and unnuanced legislation such as the CFAA, importantly the amendments
-initiated by our President, undermine that.
+Tools like the computer and the internet live as a symbol of equality. Ignorant
+and unnuanced legislation such as the CFAA, importantly the amendments initiated
+by our President, undermine that.
+
+http://Chillingeffects.org
