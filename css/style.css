@@ -703,7 +703,7 @@ input[type="button"],
   .go-bag {
     height: 700px;
     width: 100%;
-    background-image: url('/images/bag.jpg');
+    background-image: url('../images/bag.jpg');
     background-size: 100%;
     background-position: center;
     margin-top: -130px;
